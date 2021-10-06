@@ -14,7 +14,7 @@ SSAC Team Project - Real Time Q&A service
 
 > [Prototype](https://github.com/ssac-web-fullstack/moya-document/blob/main/Planning%26Analysis/Prototype/Prototype.md)
 
-> [Vision](#)
+> [Vision](https://github.com/ssac-web-fullstack/moya-document/blob/main/Planning%26Analysis/Vision/Vision.md)
 
 `Design`
 
