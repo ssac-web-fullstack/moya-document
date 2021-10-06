@@ -6,7 +6,7 @@
 
   - JavaScript
   - React
-  - Bootstrap 5.0
+  - Bootstrap 5
   - [PWA]
 
 - Back-End
