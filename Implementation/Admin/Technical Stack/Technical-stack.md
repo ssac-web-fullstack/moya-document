@@ -7,6 +7,7 @@
   - JavaScript
   - React
   - Bootstrap 5
+  - SCSS
   - [PWA]
 
 - Back-End
