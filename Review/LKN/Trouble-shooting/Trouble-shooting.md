@@ -35,6 +35,7 @@
 - `npm install` 사용 시 package.json, package-lock.json 덮어씀
 
 <br>
+
 - **해결 방법 0.**
   - `git stash`로 package 변경사항을 임시저장하여 이전 단계로 돌려놓기
   - `git stash drop`으로 저장된 변경사항 제거
