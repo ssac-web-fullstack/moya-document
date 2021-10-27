@@ -4,11 +4,9 @@
 
 - Front-End
 
-  - JavaScript
   - React
-  - Bootstrap 5
-  - SCSS
-  - [PWA]
+  - JavaScript
+  - Bootstrap
 
 - Back-End
 
@@ -31,6 +29,4 @@
   - Docker hub
   - Swagger hub
 
-- Extra - WebSocket, Socket.IO, WebRTC
-
-- wait - NoSQL (MySQL X Dev API), Redis, Flask, JWT, Sequelize
+- Extra - Socket.IO, WebRTC, Redis

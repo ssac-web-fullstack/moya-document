@@ -4,7 +4,8 @@ SSAC Team Project - Real Time Q&A service
 
 [Domain](https://moya.topician.com)
 
-[[Trello]](https://trello.com/b/9TUiu5bg/moya) [[Google Drive]](https://drive.google.com/drive/folders/1t66l4t-xZFHwSiZyZzayGFxiKHktDaCx?usp=sharing) [[Docker hub]](https://hub.docker.com/r/tmddhks0104/moyadev)
+[[Trello]](https://trello.com/b/9TUiu5bg/moya) [[Google Drive]](https://drive.google.com/drive/folders/1t66l4t-xZFHwSiZyZzayGFxiKHktDaCx?usp=sharing) [[Docker hub]](https://hub.docker.com/r/tmddhks0104/moyadev) <br/>
+[[Server Progress]](https://github.com/orgs/ssac-web-fullstack/projects/5) [[Customer Progress]](https://github.com/orgs/ssac-web-fullstack/projects/3) [[Admin Progress]](https://github.com/orgs/ssac-web-fullstack/projects/4)
 
 ## Project
 
@@ -13,8 +14,6 @@ SSAC Team Project - Real Time Q&A service
 > [Ideation](https://github.com/ssac-web-fullstack/moya-document/blob/main/Planning%26Analysis/Ideation/Ideation.md)
 
 > [Prototype](https://github.com/ssac-web-fullstack/moya-document/blob/main/Planning%26Analysis/Prototype/Prototype.md)
-
-> [Vision](https://github.com/ssac-web-fullstack/moya-document/blob/main/Planning%26Analysis/Vision/Vision.md)
 
 `Design`
 
@@ -26,15 +25,17 @@ SSAC Team Project - Real Time Q&A service
 
 `Implementation`
 
+- Server
+
+  > [Server API](https://github.com/ssac-web-fullstack/moya-document/blob/main/Implementation/Server/Server.md)
+
 - Admin
 
   > [Technical Stack](https://github.com/ssac-web-fullstack/moya-document/blob/main/Implementation/Admin/Technical%20Stack/Technical-stack.md)
 
   > [Main Functions](https://github.com/ssac-web-fullstack/moya-document/blob/main/Implementation/Admin/Main%20Functions/Main-functions.md)
 
-  > [Methodology](https://github.com/ssac-web-fullstack/moya-document/blob/main/Implementation/Admin/Methodology/Methodology.md)
-
-  > [Convention](https://github.com/ssac-web-fullstack/moya-document/blob/main/Implementation/Admin/Convention/Convention.md)
+  > [Convention & Methodology](https://github.com/ssac-web-fullstack/moya-document/blob/main/Implementation/Admin/Convention&Methodology/Convention&Methodology.md)
 
 - Customer
 
@@ -42,25 +43,27 @@ SSAC Team Project - Real Time Q&A service
 
   > [Main Functions](https://github.com/ssac-web-fullstack/moya-document/blob/main/Implementation/Customer/Main%20Functions/Main-functions.md)
 
-  > [Methodology](https://github.com/ssac-web-fullstack/moya-document/blob/main/Implementation/Customer/Methodology/Methodology.md)
-
-  > [Convention](https://github.com/ssac-web-fullstack/moya-document/blob/main/Implementation/Customer/Convention/Convention.md)
+  > [Convention & Methodology](https://github.com/ssac-web-fullstack/moya-document/blob/main/Implementation/Customer/Convention&Methodology/Convention&Methodology.md)
 
 `Testing & Integration`
 
+- Server
+
+  > [Testing & Integration](https://github.com/ssac-web-fullstack/moya-document/blob/main/Testing%26Integration/Server/Testing&Integration.md)
+
 - Admin
 
-  > [Testing](https://github.com/ssac-web-fullstack/moya-document/blob/main/Testing%26Integration/Admin/Testing/Testing.md)
-
-  > [Integration](https://github.com/ssac-web-fullstack/moya-document/blob/main/Testing%26Integration/Admin/Integration/Integration.md)
+  > [Testing & Integration](https://github.com/ssac-web-fullstack/moya-document/blob/main/Testing%26Integration/Admin/Testing&Integration.md)
 
 - Customer
 
-  > [Testing](https://github.com/ssac-web-fullstack/moya-document/blob/main/Testing%26Integration/Customer/Testing/Testing.md)
-
-  > [Integration](https://github.com/ssac-web-fullstack/moya-document/blob/main/Testing%26Integration/Customer/Integration/Integration.md)
+  > [Testing & Integration](https://github.com/ssac-web-fullstack/moya-document/blob/main/Testing%26Integration/Customer/Testing&Integration.md)
 
 `Maintenance`
+
+- Server
+
+  > [Release](https://github.com/ssac-web-fullstack/moya-document/blob/main/Maintenance/Server/Release/Release.md)
 
 - Admin
 
