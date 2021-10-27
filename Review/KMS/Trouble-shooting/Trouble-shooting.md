@@ -2,7 +2,13 @@
 
 ## **Issue**
 
-### _Git_
+### _Server Project_
+
+### _Customer Project_
+
+### _Admin Project_
+
+### _Git & Github_
 
 - 깃헙 remote에 있는 branch를 local PC의 remote branch 상태에 최신 업데이트 반영
 
@@ -13,9 +19,5 @@
 
   - `git checkout -t origin/[브랜치명]`
 
-- 깃헙 remote에 있는 브렌치와 local branch 모두 최신 상태로 연동 <br/>
+- 깃헙 remote에 있는 브렌치와 local branch 모두 최신 상태로 연동 명령어? <br/>
   (한번에 모두 가져와서 local 최신 업데이트 반영)
-
-### _HTML_
-
-- a 태그, button/form - input[type=submit] 처리 여부
