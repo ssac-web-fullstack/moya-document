@@ -1,5 +1,0 @@
-# Customer
-
-### Testing
-
-### Integration

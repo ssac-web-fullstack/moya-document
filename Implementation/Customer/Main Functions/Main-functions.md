@@ -1,3 +1,0 @@
-# Customer
-
-### Main functions

@@ -1,5 +1,0 @@
-# Customer
-
-### Convention
-
-### Methodology

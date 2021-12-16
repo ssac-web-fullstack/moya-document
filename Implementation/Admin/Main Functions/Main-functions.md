@@ -1,3 +1,0 @@
-# Admin
-
-### Main functions
